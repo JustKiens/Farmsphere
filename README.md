@@ -69,7 +69,7 @@ cd Farmsphere
 ### Step 3: Install the Frontend Dependencies
 Install all the required dependencies for frontend
 ```bash
-cd Farmspere/src/frontend
+cd Farmsphere/src/frontend
 npm install
 ```
 ### Step 3: Deploy using DFX Deployment
