@@ -64,6 +64,21 @@ git clone git@github.com:username/farmsphere.git
 ### Step 2: Navigate to the project Directory
 Use Git to clone the FarmSphere project repository onto your machine:
 ```bash
-cd farmsphere
+cd Farmsphere
+```
+### Step 3: Install the Frontend Dependencies
+Install all the required dependencies for frontend
+```bash
+cd Farmspere/src/frontend
+npm install
+```
+### Step 3: Deploy using DFX Deployment
+Make sure you're in directory /Farmsphere 
+```bash
+dfx start --clean --background
+```
+Wait for dfx to start and if it's done
+```
+dfx deploy
 ```
 
