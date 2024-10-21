@@ -41,7 +41,7 @@ FarmSphere supports the following UN Sustainable Development Goals (SDGs):
 - **Node.js** - Handles real-time updates and ensures scalability for large data processing.
 - **Express.js** - Provides flexible routing and middleware for authentication and error handling.
 - **Azle Book** - Ensures type safety and simplifies API usage.
-- **Mongodb** - A NoSQL database that provides flexible and scalable data storage for managing crop inventories, farmer data, and transaction records efficiently. It supports real-time updates and handles large datasets seamlessly, making it ideal for FarmSphere’s agricultural monitoring needs.
+- **Mongodb** - A NoSQL database that provides flexible and scalable data storage for managing crop inventories, farmer data, and transaction records efficiently.
 
 - **Cloudinary** - Manages image and video uploads, optimizing them for various devices.
 
