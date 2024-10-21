@@ -41,6 +41,7 @@ FarmSphere supports the following UN Sustainable Development Goals (SDGs):
 - **Node.js** - Handles real-time updates and ensures scalability for large data processing.
 - **Express.js** - Provides flexible routing and middleware for authentication and error handling.
 - **Azle Book** - Ensures type safety and simplifies API usage.
+- **Mongodb** - Provides flexible routing and middleware for authentication and error handling.
 - **Cloudinary** - Manages image and video uploads, optimizing them for various devices.
 
 ---
