@@ -53,9 +53,6 @@ Ensure you have the following installed:
 - **npm** (included with Node.js)
 - **Git**
 - **TypeScript**
-- **MongoDB** (or another database)
-- **Cloudinary Account** (for media management)
-- **Blockchain Setup** (specific to your environment)
 
 ### Step 1: Clone the Repository
 ```bash
