@@ -8,13 +8,13 @@
   - Kien Andrew C. Dizon
 
 ## Project Description
-FarmSphere is an innovative platform that monitors the inventory of crops in the provinces of Region III, providing real-time data on agricultural supply. The platform integrates **blockchain** and **data analytics** to enhance transparency, security, and sustainability. It aims to optimize production, reduce waste, and improve resource management for local farmers.
+Farmsphere is an innovative web-based platform that is designed to monitor the inventory of crops of the local provinces of Region III. Gathering and monitoring the information needed for the farmers in terms of their agricultural supply. The platform aims to provide a real-time monitoring solutions in order to enhance the transparency, equality, security, and sustainability in agricultural manner. Integrating blockchain and data analytics technologies, FarmSphere ensures that the crops and the supply of each farmer would be transparent, the flow of information of data across the region would be monitored seamlessly, in order to address the growing demand of supplies to sustain and secure the food production systems.  
 
 ### Features:
-1. **Real-time Supply Monitoring** - Provides farmers with real-time data on crop yields, inventory, and logistics.
-2. **Blockchain-Driven Transparency** - Ensures a secure and unchangeable record of each transaction in the agricultural supply chain.
-3. **Secure Data Sharing and Collaboration** - Facilitates data sharing across the region, ensuring balanced agricultural stock levels.
-4. **Farmer Empowerment and Education** - Functions as a hub for farmers, providing them with access to data for informed decision-making.
+1. **Real-time Supply Monitoring** - FarmSphere provides local farmers around the provinces of Region III with real-time data on crop yields, inventory levels, and logistics. This will allow local farmer on each province to efficiently decide on their supply and managed their crops efficiently. This web-based system will consolidate data to offer an overview of the agricultural supplies of each province around the region, helping on optimizing production, reduces waste and improve resource management.
+2. **Blockchain-Driven Transparency** - FarmSphere utilizes blockchain technology, it establishes a safe and transparent record of each transaction that occurs in the agricultural supply chain. Every crop or product supply from a local farmer is documented and the data will remain unchangeable, ensuring the authenticity of the inventory of each province and minimizing the risk of hoarding stocks, fraud and mislabeling that causes a potential waste and loss of income.
+3. **Secure Data Sharing and Collaboration** - The web-based system allows the data providers submit request for a specific data, giving a collaborative operation that will enhance the operations of the farmers around Region III. It will enable them to share their crops and agricultural data around the region in order to check and maintain an equal balance of agricultural crops stock around the area, minimizing the exceeds of supply and waste of crops and food stocks.
+4. **Farmer Empowerment and Education** - FarmSphere also functions like a farmer’s hub, providing farmers an access on each provinces stock crops allowing them to check resources and create a data driven decision for sustainability together with the adaption of the modern technology. This empowers the farmers of the Region III to stay informed and actively participate on a sustainable agricultural development
 
 ## Objectives:
 FarmSphere supports the following UN Sustainable Development Goals (SDGs):
